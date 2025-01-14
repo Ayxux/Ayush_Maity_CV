@@ -1,6 +1,6 @@
-# Ayush_Maity_CV
+# Ayush Maity- CV repository 🌟
 
-Welcome to my CV repository! 🌟
+Welcome to my CV repository! 
 
 I'm Ayush Maity, a 3rd-year Computer Science undergrad passionate about exploring and innovating in the realm of computer systems. My academic and project journey has been deeply rooted in computer architecture, operating systems, semiconductors, high performance computing, computer networks and also cloud computing. Sometimes it can also range to casual interest in learning about philosophy, economics, a lot of films and music.
 
